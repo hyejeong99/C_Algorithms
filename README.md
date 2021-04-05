@@ -17,7 +17,7 @@ C++을 이용한 알고리즘
 #### selection_sort
 선택 정렬 알고리즘
 
-#### quick_sort.cpp
+#### quick_sort
 퀵 정렬 알고리즘
 
 #### merge_sort
